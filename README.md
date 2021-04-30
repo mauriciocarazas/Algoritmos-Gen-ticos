@@ -1,4 +1,4 @@
-# Algoritmos-Gen-ticos
+# Algoritmos-Genéticos
 
 Practica de laboratorio del tema de 'Algoritmos Genéticos' 
 
