@@ -15,7 +15,7 @@ Implementar un algoritmo genético para resolver el problema del agente viajero
 
 Para poder correr el código que resuelve el problema del  agente viajero se necesita instalar la liberia GLUT, es recomendable instalar ZINJAI y generar un proyecto OPENGL, copiar el código y este lo correra automaticamente.
 
-EJEMPLO CON 
+EJEMPLO CON:
 
 Nro de ciudades: 10
 Nro de caminos en una generación: 15
@@ -26,7 +26,19 @@ Nro de caminos en una generación: 15
 
 
 
+Nro de ciudades: 10
+Nro de caminos en una generación: 15
+
+![Captura de pantalla 2021-04-29 200233](https://user-images.githubusercontent.com/26486569/116636005-dfe2d100-a925-11eb-8dad-ccc2308c96c9.png)
+
+![Captura de pantalla 2021-04-29 200220](https://user-images.githubusercontent.com/26486569/116636020-e5d8b200-a925-11eb-9bd8-0111237dc89f.png)
+
 
 
 
 Para poder correr el código que Genera una gráfica indicando el mejor individuo y el promedio de la población en elvalor de función de aptitud por cada iteración; se tiene una carpeta con el código en python; lo mas sencillo es correrlo en un compilar online, se recomienda: https://trinket.io/embed/python3/a5bd54189b
+
+
+![WhatsApp Image 2021-04-29 at 19 27 41](https://user-images.githubusercontent.com/26486569/116636049-fb4ddc00-a925-11eb-98be-d39a0a202e44.jpeg)
+
+
