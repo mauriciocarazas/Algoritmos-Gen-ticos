@@ -9,7 +9,7 @@ b_y = 8
 indiv = []
 
 def fun(x,y):
-    return pow(x,2) - (2*x*y)+pow(y,2)
+    return pow(x,2) 
 
 def copy(a, begin, end):
     r = ""
