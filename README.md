@@ -40,6 +40,7 @@ Para poder correr el código que Genera una gráfica indicando el mejor individu
 
 
 ![WhatsApp Image 2021-04-29 at 19 27 41](https://user-images.githubusercontent.com/26486569/116636049-fb4ddc00-a925-11eb-98be-d39a0a202e44.jpeg)
-Image 2(https://user-images.githubusercontent.com/17853123/116646488-cf3e5500-a93d-11eb-92ac-fafb96fc73d7.png)
+Image 2
+![image](https://user-images.githubusercontent.com/26486569/116768162-328dbd00-a9fa-11eb-9ffe-5313949621f8.png)
 
 
